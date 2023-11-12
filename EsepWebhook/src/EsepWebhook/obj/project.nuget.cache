@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUG9lHjMunRBVGQPkUHl8/Eisq/381eda6/7idtDyCOADkEVYpCJujGEojTpS1S/RBf7FKiWSwX1gjPfz3KXcw==",
+  "success": true,
+  "projectFilePath": "/Users/riachacko/Desktop/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/riachacko/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.11/microsoft.netcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.11/microsoft.aspnetcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "/Users/riachacko/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.11/microsoft.netcore.app.crossgen2.osx-arm64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
